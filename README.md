@@ -20,10 +20,10 @@ Then add **hubot-hankhill** to your `external-scripts.json`:
 
 ## Sample Interaction
 
-```
-user1>> hubot hello
-hubot>> hello!
-```
+
+
+![Alt text](http://i.imgur.com/Oargwn1.png)
+
 
 ## NPM Module
 
