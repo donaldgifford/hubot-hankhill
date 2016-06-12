@@ -1,7 +1,7 @@
 {
   "name": "hubot-hankhill",
   "description": "Hank hill script for hubot",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Donald Gifford <dgifford06@gmail.com>",
   "license": "MIT",
   "keywords": "hubot, hubot-scripts",
